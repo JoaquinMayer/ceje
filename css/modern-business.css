@@ -24,3 +24,9 @@ body {
 .bg-dark {
   background-color: #314e9c !important;
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: #314e9c;
+  border-color: #314e9c;
+}
